@@ -9,6 +9,7 @@ Before you begin, make sure you have the following:
   <li>Python installed on your machine</li>
   <li>A Telegram account</li>
   <li>A Telegram Bot token. You can obtain one by talking to BotFather on Telegram</li>
+  <li>API key from newsapi.org</li>
 </ol>
 
 
