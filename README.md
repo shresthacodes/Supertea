@@ -34,7 +34,7 @@ Before you begin, make sure you have the following:
 4. **Run the Bot:**
 
    ```bash
-   python telegram_bot.py
+   python superteabot.py
    ```
 
    Your bot should now be up and running. Test it by sending a message to your bot on Telegram.
