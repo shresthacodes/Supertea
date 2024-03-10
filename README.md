@@ -23,8 +23,8 @@ Before you begin, make sure you have the following:
 2. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/shresthacodes/Telegram-bot.git
-   cd Telegram-bot
+   git clone https://github.com/shresthacodes/Supertea
+   cd supertea
    ```
 
 3. **Configure your Bot:**
