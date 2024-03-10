@@ -1,5 +1,4 @@
-# supertea
- 
+
 # Telegram Bot using python
 
 Build a Telegram Bot using Python and the Telegram Bot API.
